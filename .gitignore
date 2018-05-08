@@ -1,0 +1,7 @@
+mongoalchemy/*.pyc
+mongoalchemy/app/*.pyc
+mongoalchemy/Pipfile
+
+mongoengine/*.pyc
+mongoengine/app/*.pyc
+mongoengine/Pipfile
